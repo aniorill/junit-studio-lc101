@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="Balanced Brackets tests all pass.">
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/BalancedBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" afterDir="false" />
     </list>
@@ -181,24 +182,51 @@
       <option name="presentableId" value="Default" />
       <updated>1572212264650</updated>
     </task>
+    <task id="LOCAL-00001" summary="Balanced Brackets tests all pass.">
+      <created>1594241577048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594241577048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Balanced Brackets tests all pass." />
+    <option name="LAST_COMMIT_MESSAGE" value="Balanced Brackets tests all pass." />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="736" height="198" key="GridCell.Tab.0.bottom" timestamp="1594241493290">
+    <state width="736" height="198" key="GridCell.Tab.0.bottom" timestamp="1594241563206">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="736" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1594241493290" />
-    <state width="736" height="198" key="GridCell.Tab.0.center" timestamp="1594241493290">
+    <state width="736" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1594241563206" />
+    <state width="736" height="198" key="GridCell.Tab.0.center" timestamp="1594241563205">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="736" height="198" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1594241493290" />
-    <state width="736" height="198" key="GridCell.Tab.0.left" timestamp="1594241493289">
+    <state width="736" height="198" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1594241563205" />
+    <state width="736" height="198" key="GridCell.Tab.0.left" timestamp="1594241563205">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="736" height="198" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1594241493289" />
-    <state width="736" height="198" key="GridCell.Tab.0.right" timestamp="1594241493290">
+    <state width="736" height="198" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1594241563205" />
+    <state width="736" height="198" key="GridCell.Tab.0.right" timestamp="1594241563206">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="736" height="198" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1594241493290" />
+    <state width="736" height="198" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1594241563206" />
+    <state x="480" y="151" key="Vcs.Push.Dialog.v2" timestamp="1594241592614">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="480" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1594241592614" />
   </component>
 </project>

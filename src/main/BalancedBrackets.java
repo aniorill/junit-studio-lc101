@@ -27,13 +27,13 @@ public class BalancedBrackets {
             if (brackets >= 0) {
                 if (ch == '[') {
                     brackets++;
-                } else if (ch == ']') {
+                } else if (ch == ']'){
                     brackets--;
-                } else {
-                    return false;
                 }
-
             }
+             else {
+                 return false;
+                }
         }
         return brackets == 0;
     }

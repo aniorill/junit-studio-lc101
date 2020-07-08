@@ -66,6 +66,6 @@ public class BalancedBracketsTest {
     public void misorderedPairsReturnsFalse() {
         assertFalse(main.BalancedBrackets.hasBalancedBrackets("][]["));
     }
-    
+
 
 }
